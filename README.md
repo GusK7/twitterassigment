@@ -11,7 +11,7 @@ Install dependencies for Front End app in Tweets-app
 npm install
 ```
 
-install dependencies for Backend End app in Tweets-server
+Install dependencies for Backend End app in Tweets-server
 
 ```bash
 npm install
@@ -28,6 +28,7 @@ Deploy the  Server app in Tweets-server folder with the following command:
 ```bash
 npm run start
 ```
+Note: .env file is provided for testing purposes
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
