@@ -4,8 +4,7 @@
   "description": "Scan periodically for tweets and post them in slack and in a web app.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "mocha --timeout 10000"
+    "start": "node server.js"
   },
   "author": "Anastasios Milios",
   "license": "ISC",
